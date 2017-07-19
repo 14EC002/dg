@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class swap1{
+class oddeven{
 public static void main(String args[])
 {
 int n1,n2,temp=0; 
